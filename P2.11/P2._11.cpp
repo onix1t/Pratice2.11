@@ -160,7 +160,7 @@ void ex2test()
 
 int main()
 {
-    cout << "Practice 11\n";
+    cout << "Practice 11 | Version 10\n";
     
     cout << "\nEX 1\n";
     ex1test();
